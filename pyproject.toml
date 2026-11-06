@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reportero"
+version = "1.0.0"
+description = "Consolida archivos de ventas desordenados y genera reportes en Excel y PDF"
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.0", "openpyxl>=3.1", "matplotlib>=3.7"]
+
+[project.scripts]
+reportero = "reportero.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

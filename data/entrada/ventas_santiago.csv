@@ -1,0 +1,421 @@
+﻿Folio;Fecha;Producto;Categoría;Cantidad;Precio Unitario;Vendedor
+SAN-1000;04/07/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Ana Rojas
+SAN-1001;18/07/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Camila Díaz
+SAN-1002;14/09/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Ana Rojas
+SAN-1003;28/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1004;10/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Camila Díaz
+SAN-1005;29/07/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1006;21/07/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Pedro Soto
+SAN-1007;20/07/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1008;12/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1009;16/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1010;07/09/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1011;09/09/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1012;12/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1013;23/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Pedro Soto
+SAN-1014;30/07/2026;Plumón 1,5 plazas;Ropa de cama;3;$34.990;Pedro Soto
+SAN-1015;28/08/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Pedro Soto
+SAN-1016;17/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1017;28/09/2026;Respaldo madera 1,5 plazas;Respaldos;3;$64.990;Camila Díaz
+SAN-1018;16/09/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Camila Díaz
+SAN-1019;21/07/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1020;26/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Ana Rojas
+SAN-1021;05/07/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Pedro Soto
+SAN-1022;09/07/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Camila Díaz
+SAN-1023;28/07/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Pedro Soto
+SAN-1024;19/07/2026;Set de toallas x3;Baño;1;$19.990;Ana Rojas
+SAN-1025;13/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Camila Díaz
+SAN-1026;16/08/2026;Toalla de baño;Baño;1;$7.990;Ana Rojas
+SAN-1027;12/07/2026;Set de toallas x3;Baño;2;$19.990;Ana Rojas
+SAN-1028;19/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1029;15/09/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1030;06/09/2026;Set de toallas x3;Baño;1;$19.990;Camila Díaz
+SAN-1031;26/09/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Camila Díaz
+SAN-1032;21/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1033;21/07/2026;Toalla de baño;Baño;1;$7.990;Camila Díaz
+SAN-1034;03/09/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Camila Díaz
+SAN-1035;19/09/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1036;20/07/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Ana Rojas
+SAN-1037;15/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1038;16/08/2026;Plumón 1,5 plazas;Ropa de cama;3;$34.990;Pedro Soto
+SAN-1039;08/07/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1040;11/07/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Ana Rojas
+SAN-1041;17/07/2026;Almohada viscoelástica;Ropa de cama;2;$15.990;Camila Díaz
+SAN-1042;03/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1043;28/07/2026;Toalla de baño;Baño;3;$7.990;Camila Díaz
+SAN-1044;30/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1045;26/08/2026;Cubrecama quilt;Ropa de cama;3;$29.990;Pedro Soto
+SAN-1046;01/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1047;14/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Camila Díaz
+SAN-1048;01/07/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1049;30/07/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1050;10/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1051;28/07/2026;Set de toallas x3;Baño;1;$19.990;Camila Díaz
+SAN-1052;01/08/2026;Set de toallas x3;Baño;2;$19.990;Pedro Soto
+SAN-1053;13/07/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1054;24/08/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Camila Díaz
+SAN-1055;25/09/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Camila Díaz
+SAN-1056;08/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1057;01/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1058;18/07/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1059;01/08/2026;Set de toallas x3;Baño;3;$19.990;Ana Rojas
+SAN-1060;09/09/2026;Set de toallas x3;Baño;1;$19.990;Camila Díaz
+SAN-1061;12/07/2026;Sábana 2 plazas;Ropa de cama;3;$18.990;Ana Rojas
+SAN-1062;22/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Ana Rojas
+SAN-1063;08/07/2026;Toalla de baño;Baño;1;$7.990;Ana Rojas
+SAN-1064;03/08/2026;Toalla de baño;Baño;3;$7.990;Pedro Soto
+SAN-1065;24/08/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Camila Díaz
+SAN-1066;20/07/2026;Set de toallas x3;Baño;1;$19.990;Ana Rojas
+SAN-1067;13/09/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Ana Rojas
+SAN-1068;08/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1069;08/07/2026;Almohada viscoelástica;Ropa de cama;4;$15.990;Ana Rojas
+SAN-1070;09/07/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1071;21/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1072;13/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1073;23/08/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Camila Díaz
+SAN-1074;03/08/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Camila Díaz
+SAN-1075;31/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1076;28/08/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Ana Rojas
+SAN-1077;28/08/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Camila Díaz
+SAN-1078;10/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1079;17/07/2026;Respaldo madera 1,5 plazas;Respaldos;3;$64.990;Ana Rojas
+SAN-1080;17/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1081;17/09/2026;Respaldo madera 1,5 plazas;Respaldos;4;$64.990;Camila Díaz
+SAN-1082;24/09/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Pedro Soto
+SAN-1083;18/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Ana Rojas
+SAN-1084;04/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Ana Rojas
+SAN-1085;27/07/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Pedro Soto
+SAN-1086;02/08/2026;Set de toallas x3;Baño;3;$19.990;Ana Rojas
+SAN-1087;20/09/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1088;01/07/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1089;21/07/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Camila Díaz
+SAN-1090;10/09/2026;Toalla de baño;Baño;1;$7.990;Ana Rojas
+SAN-1091;08/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1092;25/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1093;06/07/2026;Cubrecama quilt;Ropa de cama;3;$29.990;Ana Rojas
+SAN-1094;24/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1095;18/09/2026;Toalla de baño;Baño;2;$7.990;Ana Rojas
+SAN-1096;23/07/2026;Almohada viscoelástica;Ropa de cama;3;$15.990;Ana Rojas
+SAN-1097;12/08/2026;Almohada viscoelástica;Ropa de cama;2;$15.990;Pedro Soto
+SAN-1098;04/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1099;18/08/2026;Plumón 1,5 plazas;Ropa de cama;3;$34.990;Pedro Soto
+SAN-1100;26/07/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Pedro Soto
+SAN-1101;09/08/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Ana Rojas
+SAN-1102;04/07/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Pedro Soto
+SAN-1103;05/08/2026;Cubrecama quilt;Ropa de cama;3;$29.990;Pedro Soto
+SAN-1104;21/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Camila Díaz
+SAN-1105;04/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1106;13/09/2026;Almohada viscoelástica;Ropa de cama;4;$15.990;Pedro Soto
+SAN-1107;14/07/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Pedro Soto
+SAN-1108;25/08/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Camila Díaz
+SAN-1109;19/08/2026;Plumón 1,5 plazas;Ropa de cama;3;$34.990;Ana Rojas
+SAN-1110;06/07/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Ana Rojas
+SAN-1111;16/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1112;18/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1113;03/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1114;21/08/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Camila Díaz
+SAN-1115;25/07/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1116;17/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1117;08/08/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Pedro Soto
+SAN-1118;29/08/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Camila Díaz
+SAN-1119;04/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1120;23/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1121;12/07/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Ana Rojas
+SAN-1122;29/07/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Ana Rojas
+SAN-1123;06/07/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Pedro Soto
+SAN-1124;28/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1125;30/09/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Pedro Soto
+SAN-1126;01/08/2026;Toalla de baño;Baño;1;$7.990;Camila Díaz
+SAN-1127;14/07/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Ana Rojas
+SAN-1128;28/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Ana Rojas
+SAN-1129;16/07/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1130;26/08/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Camila Díaz
+SAN-1131;09/09/2026;Toalla de baño;Baño;1;$7.990;Ana Rojas
+SAN-1132;27/08/2026;Set de toallas x3;Baño;1;$19.990;Ana Rojas
+SAN-1133;05/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Ana Rojas
+SAN-1134;26/08/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1135;04/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1136;18/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1137;29/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1138;12/08/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1139;27/07/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Pedro Soto
+SAN-1140;12/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1141;08/08/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Pedro Soto
+SAN-1142;01/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1143;04/07/2026;Set de toallas x3;Baño;1;$19.990;Camila Díaz
+SAN-1144;22/07/2026;Toalla de baño;Baño;2;$7.990;Ana Rojas
+SAN-1145;20/08/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Camila Díaz
+SAN-1146;11/07/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Ana Rojas
+SAN-1147;24/07/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1148;28/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1149;05/08/2026;Toalla de baño;Baño;2;$7.990;Pedro Soto
+SAN-1150;11/07/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Camila Díaz
+SAN-1151;14/08/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1152;04/07/2026;Sábana 2 plazas;Ropa de cama;3;$18.990;Ana Rojas
+SAN-1153;18/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1154;24/09/2026;Set de toallas x3;Baño;1;$19.990;Ana Rojas
+SAN-1155;28/09/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1156;16/09/2026;Almohada viscoelástica;Ropa de cama;2;$15.990;Camila Díaz
+SAN-1157;21/07/2026;Plumón 1,5 plazas;Ropa de cama;4;$34.990;Ana Rojas
+SAN-1158;09/08/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Pedro Soto
+SAN-1159;30/09/2026;Toalla de baño;Baño;1;$7.990;Camila Díaz
+SAN-1160;14/07/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Pedro Soto
+SAN-1161;11/09/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Pedro Soto
+SAN-1162;23/09/2026;Toalla de baño;Baño;1;$7.990;Camila Díaz
+SAN-1163;02/07/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Pedro Soto
+SAN-1164;25/08/2026;Plumón 1,5 plazas;Ropa de cama;4;$34.990;Camila Díaz
+SAN-1165;29/09/2026;Set de toallas x3;Baño;1;$19.990;Ana Rojas
+SAN-1166;17/09/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Camila Díaz
+SAN-1167;29/08/2026;Set de toallas x3;Baño;1;$19.990;Camila Díaz
+SAN-1168;11/08/2026;Respaldo madera 1,5 plazas;Respaldos;3;$64.990;Ana Rojas
+SAN-1169;27/08/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1170;13/08/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1171;01/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1172;05/08/2026;Cubrecama quilt;Ropa de cama;3;$29.990;Camila Díaz
+SAN-1173;10/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Ana Rojas
+SAN-1174;31/07/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Pedro Soto
+SAN-1175;27/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1176;27/08/2026;Set de toallas x3;Baño;2;$19.990;Ana Rojas
+SAN-1177;29/07/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Ana Rojas
+SAN-1178;23/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1179;24/08/2026;Cubrecama quilt;Ropa de cama;4;$29.990;Camila Díaz
+SAN-1180;15/08/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Pedro Soto
+SAN-1181;02/08/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Camila Díaz
+SAN-1182;10/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1183;25/07/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1184;14/09/2026;Respaldo madera 1,5 plazas;Respaldos;4;$64.990;Camila Díaz
+SAN-1185;13/07/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Pedro Soto
+SAN-1186;16/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Ana Rojas
+SAN-1187;05/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Ana Rojas
+SAN-1188;28/09/2026;Respaldo madera 1,5 plazas;Respaldos;3;$64.990;Camila Díaz
+SAN-1189;14/07/2026;Set de toallas x3;Baño;3;$19.990;Camila Díaz
+SAN-1190;30/08/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1191;07/07/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1192;09/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Ana Rojas
+SAN-1193;20/07/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Camila Díaz
+SAN-1194;11/07/2026;Respaldo madera 1,5 plazas;Respaldos;4;$64.990;Ana Rojas
+SAN-1195;16/09/2026;Toalla de baño;Baño;1;$7.990;Camila Díaz
+SAN-1196;05/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1197;14/09/2026;Respaldo madera 1,5 plazas;Respaldos;4;$64.990;Pedro Soto
+SAN-1198;17/09/2026;Sábana 2 plazas;Ropa de cama;4;$18.990;Ana Rojas
+SAN-1199;19/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1200;21/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1201;21/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1202;07/08/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1203;28/09/2026;Respaldo madera 1,5 plazas;Respaldos;3;$64.990;Ana Rojas
+SAN-1204;03/08/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Camila Díaz
+SAN-1205;24/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Ana Rojas
+SAN-1206;04/08/2026;Almohada viscoelástica;Ropa de cama;2;$15.990;Ana Rojas
+SAN-1207;22/07/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Camila Díaz
+SAN-1208;26/08/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Camila Díaz
+SAN-1209;28/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1210;26/08/2026;Set de toallas x3;Baño;1;$19.990;Ana Rojas
+SAN-1211;11/08/2026;Toalla de baño;Baño;2;$7.990;Ana Rojas
+SAN-1212;30/07/2026;Plumón 1,5 plazas;Ropa de cama;4;$34.990;Camila Díaz
+SAN-1213;25/09/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Camila Díaz
+SAN-1214;23/07/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Camila Díaz
+SAN-1215;05/08/2026;Set de toallas x3;Baño;1;$19.990;Camila Díaz
+SAN-1216;20/09/2026;Toalla de baño;Baño;2;$7.990;Ana Rojas
+SAN-1217;14/08/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1218;21/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1219;06/08/2026;Set de toallas x3;Baño;2;$19.990;Pedro Soto
+SAN-1220;28/08/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Pedro Soto
+SAN-1221;15/07/2026;Cubrecama quilt;Ropa de cama;4;$29.990;Pedro Soto
+SAN-1222;23/09/2026;Sábana 2 plazas;Ropa de cama;3;$18.990;Pedro Soto
+SAN-1223;07/07/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1224;19/09/2026;Set de toallas x3;Baño;1;$19.990;Ana Rojas
+SAN-1225;04/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1226;28/09/2026;Set de toallas x3;Baño;1;$19.990;Ana Rojas
+SAN-1227;29/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1228;09/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1229;29/08/2026;Plumón 1,5 plazas;Ropa de cama;3;$34.990;Camila Díaz
+SAN-1230;02/09/2026;Almohada viscoelástica;Ropa de cama;3;$15.990;Pedro Soto
+SAN-1231;23/08/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Pedro Soto
+SAN-1232;28/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1233;15/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Ana Rojas
+SAN-1234;05/08/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Pedro Soto
+SAN-1235;03/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1236;08/08/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Camila Díaz
+SAN-1237;20/07/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1238;12/08/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Camila Díaz
+SAN-1239;28/08/2026;Toalla de baño;Baño;3;$7.990;Ana Rojas
+SAN-1240;12/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1241;10/08/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Camila Díaz
+SAN-1242;19/08/2026;Toalla de baño;Baño;4;$7.990;Camila Díaz
+SAN-1243;02/09/2026;Almohada viscoelástica;Ropa de cama;4;$15.990;Ana Rojas
+SAN-1244;13/07/2026;Cubrecama quilt;Ropa de cama;3;$29.990;Pedro Soto
+SAN-1245;06/09/2026;Plumón 1,5 plazas;Ropa de cama;3;$34.990;Ana Rojas
+SAN-1246;22/08/2026;Almohada viscoelástica;Ropa de cama;3;$15.990;Ana Rojas
+SAN-1247;30/08/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Pedro Soto
+SAN-1248;18/09/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Camila Díaz
+SAN-1249;12/08/2026;Plumón 1,5 plazas;Ropa de cama;3;$34.990;Camila Díaz
+SAN-1250;10/08/2026;Toalla de baño;Baño;2;$7.990;Pedro Soto
+SAN-1251;18/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Camila Díaz
+SAN-1252;30/07/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Pedro Soto
+SAN-1253;20/09/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Ana Rojas
+SAN-1254;22/07/2026;Set de toallas x3;Baño;2;$19.990;Ana Rojas
+SAN-1255;11/08/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Pedro Soto
+SAN-1256;17/08/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1257;11/09/2026;Toalla de baño;Baño;2;$7.990;Ana Rojas
+SAN-1258;23/07/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1259;02/09/2026;Respaldo tapizado 2 plazas;Respaldos;3;$89.990;Ana Rojas
+SAN-1260;29/08/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Pedro Soto
+SAN-1261;24/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1262;25/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Ana Rojas
+SAN-1263;14/08/2026;Set de toallas x3;Baño;4;$19.990;Pedro Soto
+SAN-1264;27/09/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1265;19/08/2026;Respaldo tapizado 2 plazas;Respaldos;3;$89.990;Ana Rojas
+SAN-1266;18/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1267;28/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Camila Díaz
+SAN-1268;05/08/2026;Toalla de baño;Baño;1;$7.990;Camila Díaz
+SAN-1269;16/09/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Pedro Soto
+SAN-1270;16/09/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Ana Rojas
+SAN-1271;18/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1272;19/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1273;09/08/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Ana Rojas
+SAN-1274;17/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1275;23/08/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1276;06/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1277;02/08/2026;Almohada viscoelástica;Ropa de cama;3;$15.990;Pedro Soto
+SAN-1278;13/08/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Pedro Soto
+SAN-1279;19/07/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Ana Rojas
+SAN-1280;10/09/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1281;03/08/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Pedro Soto
+SAN-1282;25/09/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Pedro Soto
+SAN-1283;20/09/2026;Toalla de baño;Baño;3;$7.990;Ana Rojas
+SAN-1284;30/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1285;17/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1286;28/09/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1287;18/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Ana Rojas
+SAN-1288;02/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Ana Rojas
+SAN-1289;19/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1290;14/09/2026;Toalla de baño;Baño;2;$7.990;Ana Rojas
+SAN-1291;22/09/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1292;05/08/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1293;26/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Ana Rojas
+SAN-1294;13/07/2026;Cubrecama quilt;Ropa de cama;4;$29.990;Pedro Soto
+SAN-1295;08/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1296;28/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Ana Rojas
+SAN-1297;07/07/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Ana Rojas
+SAN-1298;11/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1299;14/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Ana Rojas
+SAN-1300;19/07/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Camila Díaz
+SAN-1301;05/08/2026;Sábana 2 plazas;Ropa de cama;3;$18.990;Ana Rojas
+SAN-1302;08/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Ana Rojas
+SAN-1303;23/09/2026;Plumón 1,5 plazas;Ropa de cama;3;$34.990;Ana Rojas
+SAN-1304;15/08/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Ana Rojas
+SAN-1305;03/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1306;23/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1307;30/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1308;27/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1309;23/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Pedro Soto
+SAN-1310;08/07/2026;Sábana 2 plazas;Ropa de cama;4;$18.990;Pedro Soto
+SAN-1311;26/09/2026;Toalla de baño;Baño;1;$7.990;Camila Díaz
+SAN-1312;10/07/2026;Set de toallas x3;Baño;3;$19.990;Pedro Soto
+SAN-1313;09/07/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1314;18/08/2026;Cubrecama quilt;Ropa de cama;4;$29.990;Camila Díaz
+SAN-1315;28/08/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1316;28/09/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1317;25/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Ana Rojas
+SAN-1318;13/08/2026;Toalla de baño;Baño;2;$7.990;Pedro Soto
+SAN-1319;13/07/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1320;17/08/2026;Respaldo madera 1,5 plazas;Respaldos;4;$64.990;Camila Díaz
+SAN-1321;09/07/2026;Set de toallas x3;Baño;1;$19.990;Ana Rojas
+SAN-1322;25/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1323;17/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Camila Díaz
+SAN-1324;24/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1325;07/07/2026;Toalla de baño;Baño;4;$7.990;Camila Díaz
+SAN-1326;15/08/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Camila Díaz
+SAN-1327;20/07/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Ana Rojas
+SAN-1328;14/08/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Pedro Soto
+SAN-1329;05/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1330;16/09/2026;Sábana 2 plazas;Ropa de cama;3;$18.990;Camila Díaz
+SAN-1331;04/07/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Camila Díaz
+SAN-1332;13/08/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Ana Rojas
+SAN-1333;11/09/2026;Almohada viscoelástica;Ropa de cama;2;$15.990;Ana Rojas
+SAN-1334;20/09/2026;Almohada viscoelástica;Ropa de cama;4;$15.990;Ana Rojas
+SAN-1335;18/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1336;17/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1337;07/07/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Camila Díaz
+SAN-1338;25/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Pedro Soto
+SAN-1339;01/09/2026;Toalla de baño;Baño;2;$7.990;Pedro Soto
+SAN-1340;28/07/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Ana Rojas
+SAN-1341;25/08/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Camila Díaz
+SAN-1342;06/09/2026;Set de toallas x3;Baño;2;$19.990;Ana Rojas
+SAN-1343;20/08/2026;Respaldo tapizado 2 plazas;Respaldos;4;$89.990;Ana Rojas
+SAN-1344;27/07/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1345;02/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Ana Rojas
+SAN-1346;02/09/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Ana Rojas
+SAN-1347;18/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Ana Rojas
+SAN-1348;10/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Camila Díaz
+SAN-1349;25/08/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1350;12/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1351;07/08/2026;Toalla de baño;Baño;1;$7.990;Ana Rojas
+SAN-1352;22/07/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Camila Díaz
+SAN-1353;27/09/2026;Set de toallas x3;Baño;3;$19.990;Ana Rojas
+SAN-1354;14/07/2026;Toalla de baño;Baño;1;$7.990;Camila Díaz
+SAN-1355;06/09/2026;Toalla de baño;Baño;1;$7.990;Pedro Soto
+SAN-1356;29/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1357;04/09/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Camila Díaz
+SAN-1358;14/08/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Camila Díaz
+SAN-1359;31/07/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1360;23/07/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Camila Díaz
+SAN-1361;23/07/2026;Plumón 1,5 plazas;Ropa de cama;4;$34.990;Camila Díaz
+SAN-1362;29/08/2026;Set de toallas x3;Baño;2;$19.990;Camila Díaz
+SAN-1363;26/09/2026;Set de toallas x3;Baño;3;$19.990;Camila Díaz
+SAN-1364;19/09/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1365;30/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1366;14/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Camila Díaz
+SAN-1367;09/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Ana Rojas
+SAN-1368;17/08/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Ana Rojas
+SAN-1369;17/09/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Pedro Soto
+SAN-1370;13/09/2026;Set de toallas x3;Baño;1;$19.990;Camila Díaz
+SAN-1371;27/08/2026;Sábana 2 plazas;Ropa de cama;3;$18.990;Camila Díaz
+SAN-1372;11/08/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Camila Díaz
+SAN-1373;08/07/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1374;03/09/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Ana Rojas
+SAN-1375;29/09/2026;Respaldo tapizado 2 plazas;Respaldos;1;$89.990;Pedro Soto
+SAN-1376;16/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1377;22/08/2026;Toalla de baño;Baño;2;$7.990;Camila Díaz
+SAN-1378;19/09/2026;Sábana 2 plazas;Ropa de cama;2;$18.990;Ana Rojas
+SAN-1379;13/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1380;02/08/2026;Respaldo madera 1,5 plazas;Respaldos;2;$64.990;Camila Díaz
+SAN-1381;12/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1382;14/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1383;17/07/2026;Toalla de baño;Baño;1;$7.990;Ana Rojas
+SAN-1384;10/09/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1385;24/09/2026;Almohada viscoelástica;Ropa de cama;2;$15.990;Camila Díaz
+SAN-1386;21/09/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Camila Díaz
+SAN-1387;03/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1388;13/08/2026;Respaldo tapizado 2 plazas;Respaldos;3;$89.990;Pedro Soto
+SAN-1389;29/07/2026;Respaldo tapizado 2 plazas;Respaldos;4;$89.990;Ana Rojas
+SAN-1390;07/08/2026;Plumón 1,5 plazas;Ropa de cama;2;$34.990;Ana Rojas
+SAN-1391;23/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Camila Díaz
+SAN-1392;15/09/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Ana Rojas
+SAN-1393;27/09/2026;Almohada viscoelástica;Ropa de cama;2;$15.990;Ana Rojas
+SAN-1394;06/07/2026;Set de toallas x3;Baño;1;$19.990;Camila Díaz
+SAN-1395;26/08/2026;Respaldo tapizado 2 plazas;Respaldos;2;$89.990;Camila Díaz
+SAN-1396;30/07/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1397;25/07/2026;Set de toallas x3;Baño;1;$19.990;Camila Díaz
+SAN-1398;29/08/2026;Set de toallas x3;Baño;2;$19.990;Pedro Soto
+SAN-1399;21/07/2026;Toalla de baño;Baño;2;$7.990;Camila Díaz
+SAN-1400;02/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Pedro Soto
+SAN-1401;09/09/2026;Cubrecama quilt;Ropa de cama;3;$29.990;Camila Díaz
+SAN-1402;06/08/2026;Plumón 1,5 plazas;Ropa de cama;1;$34.990;Ana Rojas
+SAN-1403;27/08/2026;Respaldo madera 1,5 plazas;Respaldos;3;$64.990;Ana Rojas
+SAN-1404;12/07/2026;Toalla de baño;Baño;3;$7.990;Ana Rojas
+SAN-1405;14/08/2026;Set de toallas x3;Baño;3;$19.990;Pedro Soto
+SAN-1406;20/08/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1407;11/07/2026;Toalla de baño;Baño;1;$7.990;Ana Rojas
+SAN-1408;13/07/2026;Cubrecama quilt;Ropa de cama;2;$29.990;Camila Díaz
+SAN-1409;19/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Pedro Soto
+SAN-1410;28/09/2026;Set de toallas x3;Baño;2;$19.990;Camila Díaz
+SAN-1411;27/08/2026;Set de toallas x3;Baño;2;$19.990;Ana Rojas
+SAN-1412;02/08/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1413;15/07/2026;Toalla de baño;Baño;2;$7.990;Ana Rojas
+SAN-1414;16/07/2026;Respaldo madera 1,5 plazas;Respaldos;1;$64.990;Pedro Soto
+SAN-1415;09/07/2026;Set de toallas x3;Baño;1;$19.990;Pedro Soto
+SAN-1416;19/09/2026;Sábana 2 plazas;Ropa de cama;1;$18.990;Ana Rojas
+SAN-1417;07/08/2026;Almohada viscoelástica;Ropa de cama;1;$15.990;Camila Díaz
+SAN-1418;31/07/2026;Cubrecama quilt;Ropa de cama;1;$29.990;Ana Rojas
+SAN-1419;06/09/2026;Plumón 1,5 plazas;Ropa de cama;4;$34.990;Ana Rojas
